@@ -3,7 +3,7 @@
 Personal portfolio of **John Rey Singson**, 4th year Information Technology
 student at Cebu Eastern College, Cebu City.
 
-- Live site: (deployed on Vercel - URL added below after deploy)
+- Live site: https://johnrey-portfolio-beta.vercel.app
 - Hosting: Vercel (free tier)
 - Source: https://github.com/singsonjohnrey9-a11y/portfolio
 
